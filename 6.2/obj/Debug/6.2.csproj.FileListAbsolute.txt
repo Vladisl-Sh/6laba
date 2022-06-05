@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\6.2\6.2\bin\Debug\6.2.exe.config
+C:\Users\User\Desktop\6.2\6.2\obj\Debug\6.2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\6.2\6.2\bin\Debug\6.2.exe
+C:\Users\User\Desktop\6.2\6.2\bin\Debug\6.2.pdb
+C:\Users\User\Desktop\6.2\6.2\obj\Debug\6.2.exe
+C:\Users\User\Desktop\6.2\6.2\obj\Debug\6.2.pdb
+C:\DATA\Programming\C#\6\6.2\6.2\bin\Debug\6.2.exe.config
+C:\DATA\Programming\C#\6\6.2\6.2\obj\Debug\6.2.exe
+C:\DATA\Programming\C#\6\6.2\6.2\obj\Debug\6.2.pdb
+C:\DATA\Programming\C#\6\6.2\6.2\bin\Debug\6.2.exe
+C:\DATA\Programming\C#\6\6.2\6.2\bin\Debug\6.2.pdb
+C:\DATA\Programming\C#\6\6.2\6.2\obj\Debug\6.2.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс\3 семестр\ООП\C#\6\6.2\6.2\bin\Debug\6.2.exe.config
+D:\Учёба\2 курс\3 семестр\ООП\C#\6\6.2\6.2\obj\Debug\6.2.exe
+D:\Учёба\2 курс\3 семестр\ООП\C#\6\6.2\6.2\obj\Debug\6.2.pdb
+D:\Учёба\2 курс\3 семестр\ООП\C#\6\6.2\6.2\bin\Debug\6.2.exe
+D:\Учёба\2 курс\3 семестр\ООП\C#\6\6.2\6.2\bin\Debug\6.2.pdb
+D:\Учёба\2 курс\3 семестр\ООП\C#\6\6.2\6.2\obj\Debug\6.2.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс\4 семестр\ООП\6.2\6.2\bin\Debug\6.2.exe.config
+D:\Учёба\2 курс\4 семестр\ООП\6.2\6.2\obj\Debug\6.2.exe
+D:\Учёба\2 курс\4 семестр\ООП\6.2\6.2\obj\Debug\6.2.pdb
+D:\Учёба\2 курс\4 семестр\ООП\6.2\6.2\bin\Debug\6.2.exe
+D:\Учёба\2 курс\4 семестр\ООП\6.2\6.2\bin\Debug\6.2.pdb
+D:\Учёба\2 курс\4 семестр\ООП\6.2\6.2\obj\Debug\6.2.csprojResolveAssemblyReference.cache
+D:\projecti C#\ООП\6.2\6.2\bin\Debug\6.2.exe.config
+D:\projecti C#\ООП\6.2\6.2\bin\Debug\6.2.exe
+D:\projecti C#\ООП\6.2\6.2\bin\Debug\6.2.pdb
+D:\projecti C#\ООП\6.2\6.2\obj\Debug\6.2.csproj.AssemblyReference.cache
+D:\projecti C#\ООП\6.2\6.2\obj\Debug\6.2.csproj.CoreCompileInputs.cache
+D:\projecti C#\ООП\6.2\6.2\obj\Debug\6.2.exe
+D:\projecti C#\ООП\6.2\6.2\obj\Debug\6.2.pdb
